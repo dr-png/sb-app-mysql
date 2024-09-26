@@ -14,5 +14,5 @@ For example:
 * Go to [1-sb-payout-settings.sql](./1-sb-payout-settings.sql)
 * Select all `ctrl + a`
 * Copy `ctrl + c`
-* Paste into your sql runner
+* Paste into your sql runner and execute
 * Repeat to all the remaining files in order
